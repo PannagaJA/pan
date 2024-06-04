@@ -1,0 +1,45 @@
+.head{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: auto;
+    margin-left: auto;
+    font-family:monospace;
+    font-size: 40px;
+}
+.body{
+    background-color:rgb(233, 150, 122);
+}
+.image{
+    width: 300px;
+    height: auto;
+    border-radius: 150%;
+    display:flex;
+    margin: auto;
+}
+.icon{
+    display: flex;
+    height:max-content;
+    width:max-content;
+    margin: auto;
+    padding: 10px;
+    
+}
+.icon img{
+    display: inline-block;
+    margin-right: 20px;
+    border-radius: 100%;
+}
+.text{
+    text-align: center;
+}
+.button{
+    display: flex;
+    font-size: 16px;
+    color: white;
+    background-color: dimgray;
+    text-align: center;
+    border-radius: 10%;
+    margin: auto;
+    padding: 10px 20px;
+}
