@@ -37,9 +37,9 @@
     display: flex;
     font-size: 16px;
     color: white;
-    background-color: dimgray;
+    background-color:black;
     text-align: center;
-    border-radius: 10%;
+    border-radius: 100%;
     margin: auto;
     padding: 10px 20px;
 }
